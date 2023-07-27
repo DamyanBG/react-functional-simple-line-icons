@@ -1,8 +1,8 @@
 {
   "name": "react-functional-simple-line-icons",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Simple Line Icons React Functional Component",
-  "main": "src/index.jsx",
+  "main": "dist/index.js",
   "author": "Damyan Dimitrov",
   "license": "MIT",
   "repository": {
@@ -23,5 +23,14 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "simple-line-icons": "^2.5.5"
+  },
+  "scripts": {
+    "build": "babel src -d dist"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1"
   }
 }
