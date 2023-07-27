@@ -1,4 +1,24 @@
 {
+  "name": "react-functional-simple-line-icons",
+  "version": "0.1.0",
+  "description": "Simple Line Icons React Functional Component",
+  "main": "src/index.js",
+  "author": "Damyan Dimitrov",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DamyanBG/react-functional-simple-line-icons.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DamyanBG/react-functional-simple-line-icons/issues"
+  },
+  "keywords": [
+    "simple-line-icons",
+    "simple line icons",
+    "icons",
+    "react",
+    "react functional"
+  ],
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
