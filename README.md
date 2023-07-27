@@ -34,3 +34,12 @@ root.render(
     <App />
 );
 ```
+
+## Contributing
+
+All contributions are welcomed!
+
+## License
+
+This project is licensed under the terms of the
+[MIT license](https://github.com/shahafa/react-functional-simple-line-icons/blob/main/LICENSE)
